@@ -6,6 +6,8 @@ public class SampleGIT {
 		
 		System.out.println("Push");
 		System.out.println("Dev changes code");
+
+		System.out.println("Tester changes code");
 	}
 
 }
